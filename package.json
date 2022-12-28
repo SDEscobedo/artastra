@@ -1,6 +1,6 @@
 {
   "name": "artastra",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This is a library for easily generating artistic representation of planets and other celestial objects using three.js.",
   "main": "artastra.js",
   "files": [
